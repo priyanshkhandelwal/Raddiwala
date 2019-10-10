@@ -1,0 +1,412 @@
+/*
+	@name web_1920___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_web_1920___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 12502px;
+	overflow:hidden;
+}
+
+#_bg__web_1920___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 12502px;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 395px;
+	background:rgba(0,0,0,255);
+}
+
+
+#mask_group_1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 395px;
+}
+
+
+#raddiwala {
+	top: 106px;
+	left: 601px;
+	width: 723px;
+	height: 152px;
+	font-family: Montserrat;
+	font-size: 105px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#abstract {
+	top: 1408px;
+	left: -67px;
+	width: 730px;
+	height: 548px;
+}
+
+
+#about_us {
+	top: 1157px;
+	left: 726px;
+	width: 474px;
+	height: 125px;
+	font-family: Montserrat;
+	font-size: 88px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#we_the_raddiwala_s_team_here_is_a__group_of_social_enthusiasts__we__believe_in_complete_cleanliness__we_also_promote_the_sustainable_nature_for_our_coming_generartions__we_want_our_users {
+	top: 1436px;
+	left: 426px;
+	width: 1074px;
+	height: 419px;
+	font-family: Montserrat;
+	font-size: 56px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#waste_ecology_management_environmental_protection_care_vector_infographics_chart_garbage_world_separation_garbage_75515961 {
+	top: 2080px;
+	left: 0px;
+	width: 1920px;
+	height: 1920px;
+}
+
+
+#abstract_ek1 {
+	top: 4374px;
+	left: -106px;
+	width: 816px;
+	height: 611px;
+}
+
+
+#abstract_ek2 {
+	top: 5057px;
+	left: 1178px;
+	width: 816px;
+	height: 611px;
+}
+
+
+#mission {
+	top: 4103px;
+	left: 726px;
+	width: 396px;
+	height: 125px;
+	font-family: Montserrat;
+	font-size: 88px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#we_the_raddiwala_is_totally_a_profit_organisation__our_mission_is_to_collect_trash_from_our_users_at_good_cost_and_sell_it_to_companies_which_process_that_trash_and_make_fully_processed_products_which_are_to_sell_in_market__ {
+	top: 4444px;
+	left: 390px;
+	width: 1145px;
+	height: 487px;
+	font-family: Montserrat;
+	font-size: 56px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#we_are_providing_platforms_to_such__companies_which_directly_purchase_trash_from_us__the_products_they_make_are__recycled_and_processed_it_s_quality_is_very__good_and_our_aim_is_to_provide_it_at_least_cost_ {
+	top: 5102px;
+	left: 390px;
+	width: 1164px;
+	height: 419px;
+	font-family: Montserrat;
+	font-size: 56px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#alfonso_navarro_qph7tjfcdys_unsplash {
+	top: 5713px;
+	left: 0px;
+	width: 1920px;
+	height: 1200px;
+}
+
+
+#abstract_ek3 {
+	top: 7650px;
+	left: -40px;
+	width: 816px;
+	height: 611px;
+}
+
+
+#services {
+	top: 7097px;
+	left: 740px;
+	width: 445px;
+	height: 125px;
+	font-family: Montserrat;
+	font-size: 88px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#fed_up_of_trash____sell_it {
+	top: 8140px;
+	left: 960px;
+	width: 622px;
+	height: 75px;
+	font-family: Montserrat;
+	font-size: 53px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#vector_trash_icon {
+	top: 7694px;
+	left: 1063px;
+	width: 411px;
+	height: 411px;
+}
+
+
+#earth_day_2015__waste_management_in_edmonton_553e6deebffe7_w1500 {
+	top: 8584px;
+	left: 0px;
+	width: 1920px;
+	height: 1920px;
+}
+
+
+#contact {
+	top: 10733px;
+	left: 745px;
+	width: 435px;
+	height: 125px;
+	font-family: Montserrat;
+	font-size: 88px;
+	text-align: left;
+	color:#000000;
+}
+
+#symbol_2 {
+	top: 11113px;
+	left: 334px;
+	width: 831px;
+	height: 1246px;
+}
+
+#rectangle_2_ek1 {
+	top: 97px;
+	left: 3px;
+	width: 657px;
+	height: 125px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #ffffff;
+	background:rgba(83,72,64,255);
+}
+
+
+#amadeus {
+	top: 120px;
+	left: 41px;
+	width: 216px;
+	height: 64px;
+	font-family: Montserrat;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#enter_your_name {
+	top: -14px;
+	left: 3px;
+	width: 479px;
+	height: 79px;
+	font-family: Montserrat;
+	font-size: 56px;
+	text-align: left;
+	color:#534840;
+}
+
+
+#email___support_raddiwala_in {
+	top: 1084px;
+	left: 0px;
+	width: 836px;
+	height: 79px;
+	font-family: Montserrat;
+	font-size: 56px;
+	text-align: left;
+	color:#534840;
+}
+
+
+#call___1800_200_3939 {
+	top: 1164px;
+	left: 0px;
+	width: 555px;
+	height: 79px;
+	font-family: Montserrat;
+	font-size: 56px;
+	text-align: left;
+	color:#534840;
+}
+
+#symbol_5 {
+	top: 11368px;
+	left: 334px;
+	width: 657px;
+	height: 224px;
+}
+
+#rectangle_2_ek2 {
+	top: 97px;
+	left: 0px;
+	width: 655px;
+	height: 125px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #ffffff;
+	background:rgba(83,72,64,255);
+}
+
+
+#_9460511226 {
+	top: 120px;
+	left: 37px;
+	width: 256px;
+	height: 64px;
+	font-family: Montserrat;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#contact_no__ {
+	top: -14px;
+	left: 0px;
+	width: 349px;
+	height: 79px;
+	font-family: Montserrat;
+	font-size: 56px;
+	text-align: left;
+	color:#534840;
+}
+
+#symbol_6 {
+	top: 11623px;
+	left: 336px;
+	width: 1248.9814453125px;
+	height: 400.7822265625px;
+}
+
+#path_991 {
+	top: 96px;
+	left: 0px;
+	width: 1248.9814453125px;
+	height: 305.0234375px;
+}
+
+
+#sir_ma_am_i_want_to_book_a_slot_to_pickup_for_my_trash {
+	top: 142px;
+	left: 41px;
+	width: 991px;
+	height: 119px;
+	font-family: Montserrat;
+	font-size: 45px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#enter_your_query_ {
+	top: -14px;
+	left: 1px;
+	width: 502px;
+	height: 79px;
+	font-family: Montserrat;
+	font-size: 56px;
+	text-align: left;
+	color:#534840;
+}
+
+#buttons___contained___enabled {
+	top: 12055px;
+	left: 753px;
+	width: 341.56005859375px;
+	height: 103.1123046875px;
+}
+
+#rectangle_377 {
+	top: 0px;
+	left: 0px;
+	width: 341.56005859375px;
+	height: 103.1123046875px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	-ms-box-shadow:0px 1px 5px 1px rgba(0,0,0,0.51);
+	-o-box-shadow:0px 1px 5px 1px rgba(0,0,0,0.51);
+	-webkit-box-shadow:0px 1px 5px 1px rgba(0,0,0,0.51);
+	-moz-box-shadow:0px 1px 5px 1px rgba(0,0,0,0.51);
+	box-shadow:0px 1px 5px 1px rgba(0,0,0,0.51);
+	background:rgba(98,0,238,255);
+}
+
+
+#submit {
+	top: 10px;
+	left: 71px;
+	width: 204.99993896484px;
+	height: 68px;
+	font-family: Montserrat;
+	font-size: 48px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+
+/* Add your custom CSS here */
